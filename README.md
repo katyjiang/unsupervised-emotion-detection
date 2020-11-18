@@ -5,6 +5,7 @@
 * Swapnil Parihar
 * Pranav Karmalkar
 
+## Primary Notebook:
 256_project_v2.0.ipynb is the primary notebook for the project. 
 
 ## About the project:
